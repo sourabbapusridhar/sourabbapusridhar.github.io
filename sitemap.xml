@@ -103,11 +103,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-12-11T01:15:31+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sourabbapusridhar.github.io/post/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url>
@@ -120,6 +115,11 @@
   <url>
     <loc>https://sourabbapusridhar.github.io/talk/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-11T01:15:31+00:00</lastmod>
   </url>
   
 </urlset>
