@@ -29,7 +29,23 @@
     </item>
     
     <item>
-      <title>AIvsMLvsDLvsNN</title>
+      <title>Understanding Convolutional Neural Networks (CNNs)</title>
+      <link>https://sourabbapusridhar.github.io/post/convolutionalneuralnetworks/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://sourabbapusridhar.github.io/post/convolutionalneuralnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Different Types Of Machine Learning Problems</title>
+      <link>https://sourabbapusridhar.github.io/post/typesofmachinelearningproblems/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sourabbapusridhar.github.io/post/typesofmachinelearningproblems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the difference between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Neural Networks (NN)</title>
       <link>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</guid>
