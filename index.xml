@@ -53,11 +53,23 @@
     </item>
     
     <item>
-      <title>Understanding the difference between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Neural Networks (NN)</title>
+      <title>Understanding the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)</title>
       <link>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</guid>
-      <description></description>
+      <description>&lt;p&gt;With more and more devices being connected to the internet, Artificial Intelligence (AI) is becoming the driving technology of the 21st century, just as microcontrollers were the driving technology of the 20th century. According to x, the investments in AI startups have quadrupled in the past y years, topping as high as z Billion USD. Although AI is the core enabler of self-driving cars, digital assistants, medical imaging for many other important technologies, the correct understanding of this important technology seems scarce. Additionally, due to the large hype around this technology, there seem to be many misunderstandings between the terminology. This can be particularly observed when people switch the terms Artificial Intelligence, Machine Learning, and Deep Learning around all the time. Although the terms seem to be equivalent, the meaning of each term is slightly different in reality. Therefore, the goal of this post is to understand the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).&lt;/p&gt;
+&lt;h2 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h2&gt;
+&lt;h3 id=&#34;artificial-narrow-intelligence&#34;&gt;Artificial Narrow Intelligence&lt;/h3&gt;
+&lt;h3 id=&#34;artificial-general-intelligence&#34;&gt;Artificial General Intelligence&lt;/h3&gt;
+&lt;h3 id=&#34;artificial-super-intelligence&#34;&gt;Artificial Super Intelligence&lt;/h3&gt;
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;h3 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h3&gt;
+&lt;h3 id=&#34;unsupervised-learning&#34;&gt;Unsupervised Learning&lt;/h3&gt;
+&lt;h3 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h3&gt;
+&lt;h3 id=&#34;semi-supervised-learning&#34;&gt;Semi-Supervised Learning&lt;/h3&gt;
+&lt;h2 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+</description>
     </item>
     
     <item>
