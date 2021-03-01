@@ -57,8 +57,93 @@
       <link>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</guid>
-      <description>&lt;p&gt;With more and more devices being connected to the internet, Artificial Intelligence (AI) is becoming the driving technology of the 21st century, just as microcontrollers were the driving technology of the 20th century. According to x, the investments in AI startups have quadrupled in the past y years, topping as high as z Billion USD. Although AI is the core enabler of self-driving cars, digital assistants, medical imaging for many other important technologies, the correct understanding of this important technology seems scarce. Additionally, due to the large hype around this technology, there seem to be many misunderstandings between the terminology. This can be particularly observed when people switch the terms Artificial Intelligence, Machine Learning, and Deep Learning around all the time. Although the terms seem to be equivalent, the meaning of each term is slightly different in reality. Therefore, the goal of this post is to understand the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;With more and more devices being connected to the internet, Artificial Intelligence (AI) is becoming the driving technology of the 21st century. According to x, the investments in AI startups have quadrupled in the past y years, topping as high as z Billion USD.&lt;/em&gt; Although AI has been the core enabler of many applications such as self-driving cars, digital assistants and medical imaging just to name a few, correct understanding of this important technology seems scarce. Additionally, due to the large hype around this technology, there seem to be many misunderstandings between the terminology. This can be particularly observed when people switch the terms Artificial Intelligence, Machine Learning, and Deep Learning around all the time. Although the terms seem to be equivalent, the meaning of each term varies and practitioners in this field can clearly articulate the differences between the three closely-related terms. Therefore, the goal of this post is to understand the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-difference-between-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/AIvsMLvsDL_hu101cca16b2d14c5a93889a858c02cd8b_63966_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/AIvsMLvsDL_hu101cca16b2d14c5a93889a858c02cd8b_63966_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1135&#34; height=&#34;1135&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Difference Between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h2&gt;
+&lt;p&gt;The term Artificial Intelligence was first coined by John McCarthy in 1956 when he held the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dartmouth_workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first academic conference on the subject at Dartmouth&lt;/a&gt;. According to McCarthy, Artificial Intelligence is &amp;ldquo;the science and engineering of making intelligent machines.&amp;rdquo; Therefore, Artificial intelligence can be classified as a sub-field of computer science, just like quantam physics or organic chemistry. There is an &lt;a href=&#34;https://youtu.be/SzJ46YA_RaA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;excellent video&lt;/a&gt; that summarizes the field of computer science. Artificial Intelligence can be categorized into three categories:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-difference-between-artificial-narrow-intelligence-ani-artificial-general-intelligence-agi-and-artificial-super-intelligence-asi&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI),&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1305&#34; height=&#34;901&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Difference Between Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI),
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;h3 id=&#34;artificial-narrow-intelligence&#34;&gt;Artificial Narrow Intelligence&lt;/h3&gt;
 &lt;h3 id=&#34;artificial-general-intelligence&#34;&gt;Artificial General Intelligence&lt;/h3&gt;
 &lt;h3 id=&#34;artificial-super-intelligence&#34;&gt;Artificial Super Intelligence&lt;/h3&gt;
