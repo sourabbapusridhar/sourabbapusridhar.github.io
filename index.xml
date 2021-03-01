@@ -54,10 +54,10 @@
     
     <item>
       <title>Understanding the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)</title>
-      <link>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</link>
+      <link>https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/</guid>
-      <description>&lt;p&gt;&lt;em&gt;With more and more devices being connected to the internet, Artificial Intelligence (AI) is becoming the driving technology of the 21st century. According to x, the investments in AI startups have quadrupled in the past y years, topping as high as z Billion USD.&lt;/em&gt; Although AI has been the core enabler of many applications such as self-driving cars, digital assistants and medical imaging just to name a few, correct understanding of this important technology seems scarce. Additionally, due to the large hype around this technology, there seem to be many misunderstandings between the terminology. This can be particularly observed when people switch the terms Artificial Intelligence, Machine Learning, and Deep Learning around all the time. Although the terms seem to be equivalent, the meaning of each term varies and practitioners in this field can clearly articulate the differences between the three closely-related terms. Therefore, the goal of this post is to understand the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).&lt;/p&gt;
+      <guid>https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With more and more devices being connected to the internet, Artificial Intelligence (AI) is becoming the driving technology of the 21st century. According to x, the investments in AI startups have quadrupled in the past y years, topping as high as z Billion USD.&lt;/em&gt; Although AI has been the core enabler of many applications such as self-driving cars, digital assistants, and medical imaging, to name a few, correct understanding of this important technology seems scarce. Additionally, due to the large hype around this technology, there seem to be many misunderstandings between the terminology. This can be particularly observed when people switch the terms Artificial Intelligence, Machine Learning, and Deep Learning around all the time. Although the terms seem to be equivalent, each term&amp;rsquo;s meaning varies, and practitioners in this field can clearly articulate the differences between the three closely-related terms. Therefore, the goal of this post is to understand the difference between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).&lt;/p&gt;
 
 
 
@@ -84,10 +84,10 @@
 &lt;figure id=&#34;figure-difference-between-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/AIvsMLvsDL_hu101cca16b2d14c5a93889a858c02cd8b_63966_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/AIvsMLvsDL_hu4321b170f908e97c271dcec8b1e1a2b2_33403_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/AIvsMLvsDL_hu101cca16b2d14c5a93889a858c02cd8b_63966_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1135&#34; height=&#34;1135&#34;&gt;
+  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/AIvsMLvsDL_hu4321b170f908e97c271dcec8b1e1a2b2_33403_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;770&#34; height=&#34;736&#34;&gt;
 &lt;/a&gt;
 
 
@@ -100,8 +100,14 @@
 
 &lt;/figure&gt;
 
-&lt;h2 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h2&gt;
-&lt;p&gt;The term Artificial Intelligence was first coined by John McCarthy in 1956 when he held the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dartmouth_workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first academic conference on the subject at Dartmouth&lt;/a&gt;. According to McCarthy, Artificial Intelligence is &amp;ldquo;the science and engineering of making intelligent machines.&amp;rdquo; Therefore, Artificial intelligence can be classified as a sub-field of computer science, just like quantam physics or organic chemistry. There is an &lt;a href=&#34;https://youtu.be/SzJ46YA_RaA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;excellent video&lt;/a&gt; that summarizes the field of computer science. Artificial Intelligence can be categorized into three categories:&lt;/p&gt;
+&lt;h2 id=&#34;artificial-intelligence-ai&#34;&gt;Artificial Intelligence (AI)&lt;/h2&gt;
+&lt;p&gt;The term Artificial Intelligence (AI) was first coined by John McCarthy in 1956 when he held the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dartmouth_workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first academic conference on AI at Dartmouth&lt;/a&gt;. According to McCarthy, Artificial Intelligence is &amp;ldquo;the science and engineering of making intelligent machines.&amp;rdquo; In other words, Artificial intelligence is a sub-field of computer science, just like quantum physics or organic chemistry, which aims to replicate or simulate human intelligence so that machines can perform tasks like visual perception, speech recognition, and decision-making, which humans typically perform.&lt;/p&gt;
+&lt;p&gt;The applications of Artificial Intelligence can range from &lt;a href=&#34;https://en.wikipedia.org/wiki/AlphaGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deepmind&amp;rsquo;s Alpha Go&lt;/a&gt; to &lt;a href=&#34;https://en.wikipedia.org/wiki/Watson_%28computer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Watson&lt;/a&gt;. Therefore, Artificial Intelligence is usually classified based on its ability to mimic human intelligence. Based on the above characteristic, all Artificial Intelligence-based systems can be categorized into one of the below three categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Narrow Intelligence (ANI)&lt;/li&gt;
+&lt;li&gt;Artificial General Intelligence (AGI)&lt;/li&gt;
+&lt;li&gt;Artificial Super Intelligence (ASI)&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
@@ -128,10 +134,10 @@
 &lt;figure id=&#34;figure-difference-between-artificial-narrow-intelligence-ani-artificial-general-intelligence-agi-and-artificial-super-intelligence-asi&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI),&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Difference Between Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI),&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/aivsmlvsdlvsnn/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1305&#34; height=&#34;901&#34;&gt;
+  &lt;img data-src=&#34;https://sourabbapusridhar.github.io/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/ANIvsAGIvsASI_hu31a41768380080f5c431522b2c3c78f7_33311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1305&#34; height=&#34;901&#34;&gt;
 &lt;/a&gt;
 
 
@@ -144,9 +150,20 @@
 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;artificial-narrow-intelligence&#34;&gt;Artificial Narrow Intelligence&lt;/h3&gt;
-&lt;h3 id=&#34;artificial-general-intelligence&#34;&gt;Artificial General Intelligence&lt;/h3&gt;
-&lt;h3 id=&#34;artificial-super-intelligence&#34;&gt;Artificial Super Intelligence&lt;/h3&gt;
+&lt;h3 id=&#34;artificial-narrow-intelligence-ani&#34;&gt;Artificial Narrow Intelligence (ANI)&lt;/h3&gt;
+&lt;p&gt;Artificial Narrow Intelligence (ANI), also referred to as weak AI or narrow AI, is the only type of Artificial Intelligence humans have successfully realized to date. Artificial Narrow Intelligence is goal-oriented and trained to perform a singular task (For example, visual perception or speech recognition) - and outperforms humans at the specific task it is trained to do. Since Artificial Narrow Intelligence has a very narrow scope of what it can do, even the smartest narrow AI in 2020 is nowhere near matching human intelligence. Some examples of narrow AI are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Watson_%28computer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Watson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Virtual Assistants like &lt;a href=&#34;https://www.apple.com/siri/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siri by Apple&lt;/a&gt;, &lt;a href=&#34;https://www.microsoft.com/en-us/cortana&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cortana by Micrsoft&lt;/a&gt;, and others&lt;/li&gt;
+&lt;li&gt;Image Recognition Software like &lt;a href=&#34;https://lens.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Lens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tesla.com/autopilot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tesla&amp;rsquo;s Autopilot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;artificial-general-intelligence-agi&#34;&gt;Artificial General Intelligence (AGI)&lt;/h3&gt;
+&lt;p&gt;Artificial General Intelligence (AGI), also referred to as strong AI, is a conceptual Artificial Intelligence-based system that mimics human intelligence and can apply its intelligence to solve any problem. Artificial General Intelligence can compete with humans on its ability to think, understand and act in a way that is indistinguishable from humans in any situation.&lt;/p&gt;
+&lt;p&gt;AI researchers and scientists are nowhere close to creating Artificial General Intelligence. One of the key challenges to be overcome is intuition. Unlike current weak AI-based systems, humans can make intuitive leaps to solve any unknown problem with minimal data. Furthermore, the lack of comprehensive knowledge of the human brain&amp;rsquo;s functionality makes it exponentially difficult for researchers to replicate even basic functions of sight and movement.&lt;/p&gt;
+&lt;h3 id=&#34;artificial-super-intelligence-asi&#34;&gt;Artificial Super Intelligence (ASI)&lt;/h3&gt;
+&lt;p&gt;Artificial Super Intelligence (ASI) is a hypothetical Artificial Intelligence-based system that doesn&amp;rsquo;t just understand human intelligence and behavior but outperforms even the smartest humans in intelligence and ability in all possible fields.&lt;/p&gt;
+&lt;p&gt;Artificial Super Intelligence has long been the muse of dystopian science fiction in which robots overthrow and enslave humanity. Since Artificial Super Intelligence would be better than everything humans do, the decision-making and problem-solving capabilities of superintelligent systems would far surpass humans&#39;. Fortunately, AI researchers and scientists don&amp;rsquo;t even dream of creating Artificial Super Intelligence.&lt;/p&gt;
 &lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
 &lt;h3 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h3&gt;
 &lt;h3 id=&#34;unsupervised-learning&#34;&gt;Unsupervised Learning&lt;/h3&gt;
